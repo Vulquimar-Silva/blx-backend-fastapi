@@ -9,5 +9,5 @@
 
 
 <h2>Arquitetura:</h2> <p>MVC</p>
-<p>DDD</p>
-<p>Arquitetura Limpa</p>
+<h2>DDD</h2>
+<h2>Arquitetura Limpa</h2>
