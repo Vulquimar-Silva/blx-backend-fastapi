@@ -4,7 +4,7 @@
 <p>Link da documentação do Python: https://docs.python.org/3/</p>
 <p>Link do framework utilizado nesse projeto: https://fastapi.tiangolo.com/</p>
 
-<p>API REST</p>
+<h2>API REST</h2>
 <h2>Banco:</h2> <p>Postgres + Docker</p>
 
 
