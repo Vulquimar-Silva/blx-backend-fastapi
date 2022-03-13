@@ -1,4 +1,4 @@
-# App: BLX (é tipo um OLX, só que bem mais humilde 😁)
+## App: ### BLX (é tipo um OLX, só que bem mais humilde 😁)
 # Ferramentas: FastAPI + Python
 # API REST
 # Banco: Postgres
